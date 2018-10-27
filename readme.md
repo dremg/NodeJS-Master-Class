@@ -2,7 +2,7 @@
 
 > Code samples for all sections and chapters.
 
-## RESTful
+## RESTful [a link] {https://github.com/dremg/NodeJS-Master-Class/tree/master/myRESTful/README.md)
 
 ## GUI
 

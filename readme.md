@@ -1,19 +1,11 @@
-# The Node.JS Master Course
+# Executing The Node.JS Master Course
 
 > Code samples for all sections and chapters.
 
-## Section 1
+## RESTful
 
-## Section 2
+## GUI
 
-## Section 3
+## CLI
 
-## Section 4
 
-## Section 5
-
-## Section 6
-
-## Section 7
-
-## Section 8
